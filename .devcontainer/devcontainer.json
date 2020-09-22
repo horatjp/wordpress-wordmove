@@ -1,0 +1,16 @@
+{
+	"name": "wordpress-wordmove",
+
+	"dockerComposeFile": [
+		"docker-compose.yml"
+    ],
+
+    "service": "wordmove",
+    "workspaceFolder": "/home/wordmove",
+
+	"settings": {
+		"terminal.integrated.shell.linux": null
+    },
+
+	"extensions": []
+}
